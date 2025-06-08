@@ -17,17 +17,17 @@ export URL_PATH="/top-langs/?username=sichanghe&langs_count=18&layout=compact&ex
 echo "Downloading most owned languages SVG..."
 export SVG_NAME="most_owned_languages.svg"
 curl "$PREFIX$URL_PATH" -o "$SVG_NAME"
-sed -i -e 's/Most Used/Most Owned/g'-e 's/Most Used/Most Owned/g' "$SVG_NAME"
+sed -i -e 's/Most Used/Most Owned/g' -e 's/  //g' "$SVG_NAME"
 cat most_owned_languages.svg
 ls -lah most_owned_languages.svg
 
+git add most_owned_languages.svg
 if git diff --cached --quiet; then
     echo "No changes."
 else
     echo "Commiting"
     git config --global user.name "SichangHe"
     git config --global user.email "sichanghe@users.noreply.github.com"
-    git add most_owned_languages.svg
     git commit -m "Auto update of most_owned_languages.svg"
     git push -f
 fi
