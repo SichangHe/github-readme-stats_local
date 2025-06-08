@@ -4,7 +4,7 @@ if [ -z "$PAT_1" ]; then
     exit 1
 fi
 
-git clone https://github.com/anuraghazra/github-readme-stats.git --depth=1
+git clone https://github.com/abap34/github-readme-stats.git --branch=feature_display_bytes --depth=1
 cd github-readme-stats
 pnpm i express
 node express.js &
@@ -13,7 +13,7 @@ sleep 5
 cd ..
 
 export PREFIX="localhost:9000"
-export URL_PATH="/top-langs/?username=sichanghe&langs_count=18&layout=compact&exclude_repo=CoreMLProto,reproduce_tensorflow_tensorflow_issue_61654,STATS401,learn_program,rails_tutorial,Notes_Steven,notes,mdbook_katex_template,igem-2022-dku-backup,mdbook_fancy_theme,BigDecimal-Matrix-and-column-vector-calculator-in-Java&hide=Batchfile,CSS,Handlebars,HTML,Jupyter%20Notebook,Less,Tex,VBScript,Markdown,Shell"
+export URL_PATH="/top-langs/?username=sichanghe&langs_count=18&layout=compact&stats_format=bytes&exclude_repo=CoreMLProto,reproduce_tensorflow_tensorflow_issue_61654,STATS401,learn_program,rails_tutorial,Notes_Steven,notes,mdbook_katex_template,igem-2022-dku-backup,mdbook_fancy_theme,BigDecimal-Matrix-and-column-vector-calculator-in-Java&hide=Batchfile,CSS,Handlebars,HTML,Jupyter%20Notebook,Less,Tex,VBScript,Markdown,Shell"
 echo "Downloading most owned languages SVG..."
 export SVG_NAME="most_owned_languages.svg"
 curl "$PREFIX$URL_PATH" -o "$SVG_NAME"
