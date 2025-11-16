@@ -130,7 +130,7 @@ mask="url(#rect-mask)"
 data-testid="lang-progress"
 x="0"
 y="0"
-width="144.34"
+width="146.71"
 height="8"
 fill="#3572A5"
 />
@@ -138,9 +138,9 @@ fill="#3572A5"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="144.34"
+x="146.71"
 y="0"
-width="72.26"
+width="70.32"
 height="8"
 fill="#dea584"
 />
@@ -148,9 +148,9 @@ fill="#dea584"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="216.60000000000002"
+x="217.03"
 y="0"
-width="15.01"
+width="14.89"
 height="8"
 fill="#6e4a7e"
 />
@@ -158,9 +158,9 @@ fill="#6e4a7e"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="221.61"
+x="221.92"
 y="0"
-width="14.83"
+width="14.7"
 height="8"
 fill="#701516"
 />
@@ -168,9 +168,9 @@ fill="#701516"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="226.44000000000003"
+x="226.61999999999998"
 y="0"
-width="14.09"
+width="13.98"
 height="8"
 fill="#f1e05a"
 />
@@ -178,9 +178,9 @@ fill="#f1e05a"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="230.53000000000003"
+x="230.59999999999997"
 y="0"
-width="12.93"
+width="12.85"
 height="8"
 fill="#3c5caa"
 />
@@ -188,9 +188,9 @@ fill="#3c5caa"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="233.46000000000004"
+x="233.44999999999996"
 y="0"
-width="12.76"
+width="12.69"
 height="8"
 fill="#A97BFF"
 />
@@ -198,9 +198,9 @@ fill="#A97BFF"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="236.22000000000003"
+x="236.13999999999996"
 y="0"
-width="12.64"
+width="12.61"
 height="8"
 fill="#000080"
 />
@@ -208,9 +208,9 @@ fill="#000080"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="238.86"
+x="238.74999999999997"
 y="0"
-width="11.74"
+width="11.7"
 height="8"
 fill="#f34b7d"
 />
@@ -218,9 +218,9 @@ fill="#f34b7d"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="240.60000000000002"
+x="240.44999999999996"
 y="0"
-width="11.66"
+width="11.620000000000001"
 height="8"
 fill="#ff3e00"
 />
@@ -228,9 +228,9 @@ fill="#ff3e00"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="242.26000000000002"
+x="242.06999999999996"
 y="0"
-width="11.61"
+width="11.57"
 height="8"
 fill="#00B4AB"
 />
@@ -238,9 +238,9 @@ fill="#00B4AB"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="243.87000000000003"
+x="243.63999999999996"
 y="0"
-width="11.51"
+width="11.47"
 height="8"
 fill="#6E4C13"
 />
@@ -248,9 +248,9 @@ fill="#6E4C13"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="245.38000000000002"
+x="245.10999999999996"
 y="0"
-width="11.33"
+width="11.3"
 height="8"
 fill="#555555"
 />
@@ -258,9 +258,9 @@ fill="#555555"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="246.71000000000004"
+x="246.40999999999997"
 y="0"
-width="10.93"
+width="10.9"
 height="8"
 fill="#F05138"
 />
@@ -268,9 +268,9 @@ fill="#F05138"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="247.64000000000004"
+x="247.30999999999997"
 y="0"
-width="10.87"
+width="10.84"
 height="8"
 fill="#ff5a03"
 />
@@ -278,9 +278,9 @@ fill="#ff5a03"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="248.51000000000005"
+x="248.14999999999998"
 y="0"
-width="10.85"
+width="10.83"
 height="8"
 fill="#b07219"
 />
@@ -288,9 +288,9 @@ fill="#b07219"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="249.36000000000004"
+x="248.98"
 y="0"
-width="10.36"
+width="10.66"
 height="8"
 fill="#336790"
 />
@@ -298,9 +298,9 @@ fill="#336790"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="249.72000000000006"
+x="249.64"
 y="0"
-width="10.31"
+width="10.36"
 height="8"
 fill="#384d54"
 />
@@ -311,7 +311,7 @@ fill="#384d54"
 <g class="stagger" style="animation-delay: 450ms">
 <circle cx="5" cy="6" r="5" fill="#3572A5" />
 <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-Python 2.9 MB
+Python 3.0 MB
 </text>
 </g>
 </g><g transform="translate(0, 25)">
@@ -360,7 +360,7 @@ Kotlin 56.9 KB
 <g class="stagger" style="animation-delay: 1500ms">
 <circle cx="5" cy="6" r="5" fill="#000080" />
 <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-Lua 54.4 KB
+Lua 55.1 KB
 </text>
 </g>
 </g><g transform="translate(0, 200)">
@@ -423,14 +423,14 @@ Java 17.5 KB
 <g class="stagger" style="animation-delay: 1500ms">
 <circle cx="5" cy="6" r="5" fill="#336790" />
 <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-PLpgSQL 7.5 KB
+PLpgSQL 14.0 KB
 </text>
 </g>
 </g><g transform="translate(0, 200)">
 <g class="stagger" style="animation-delay: 1650ms">
 <circle cx="5" cy="6" r="5" fill="#384d54" />
 <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-Dockerfile 6.3 KB
+Dockerfile 7.7 KB
 </text>
 </g>
 </g></g>
