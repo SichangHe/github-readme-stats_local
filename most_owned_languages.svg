@@ -130,7 +130,7 @@ mask="url(#rect-mask)"
 data-testid="lang-progress"
 x="0"
 y="0"
-width="161.07"
+width="163.13"
 height="8"
 fill="#3572A5"
 />
@@ -138,9 +138,9 @@ fill="#3572A5"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="161.07"
+x="163.13"
 y="0"
-width="59.89"
+width="58.11"
 height="8"
 fill="#dea584"
 />
@@ -148,9 +148,9 @@ fill="#dea584"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="220.95999999999998"
+x="221.24"
 y="0"
-width="14.16"
+width="14.04"
 height="8"
 fill="#6e4a7e"
 />
@@ -158,9 +158,9 @@ fill="#6e4a7e"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="225.11999999999998"
+x="225.28"
 y="0"
-width="14.01"
+width="13.89"
 height="8"
 fill="#701516"
 />
@@ -168,9 +168,9 @@ fill="#701516"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="229.12999999999997"
+x="229.17"
 y="0"
-width="13.39"
+width="13.29"
 height="8"
 fill="#f1e05a"
 />
@@ -178,9 +178,9 @@ fill="#f1e05a"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="232.51999999999995"
+x="232.45999999999998"
 y="0"
-width="12.43"
+width="12.36"
 height="8"
 fill="#3c5caa"
 />
@@ -188,9 +188,9 @@ fill="#3c5caa"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="234.94999999999996"
+x="234.82"
 y="0"
-width="12.29"
+width="12.22"
 height="8"
 fill="#A97BFF"
 />
@@ -198,9 +198,9 @@ fill="#A97BFF"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="237.23999999999995"
+x="237.04"
 y="0"
-width="12.14"
+width="12.08"
 height="8"
 fill="#000080"
 />
@@ -208,59 +208,9 @@ fill="#000080"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="239.37999999999994"
+x="239.12"
 y="0"
-width="11.45"
-height="8"
-fill="#f34b7d"
-/>
-
-<rect
-mask="url(#rect-mask)"
-data-testid="lang-progress"
-x="240.82999999999993"
-y="0"
-width="11.379999999999999"
-height="8"
-fill="#ff3e00"
-/>
-
-<rect
-mask="url(#rect-mask)"
-data-testid="lang-progress"
-x="242.20999999999992"
-y="0"
-width="11.34"
-height="8"
-fill="#00B4AB"
-/>
-
-<rect
-mask="url(#rect-mask)"
-data-testid="lang-progress"
-x="243.54999999999993"
-y="0"
-width="11.25"
-height="8"
-fill="#6E4C13"
-/>
-
-<rect
-mask="url(#rect-mask)"
-data-testid="lang-progress"
-x="244.79999999999993"
-y="0"
-width="11.11"
-height="8"
-fill="#555555"
-/>
-
-<rect
-mask="url(#rect-mask)"
-data-testid="lang-progress"
-x="245.90999999999994"
-y="0"
-width="10.97"
+width="11.52"
 height="8"
 fill="#336790"
 />
@@ -268,9 +218,59 @@ fill="#336790"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="246.87999999999994"
+x="240.64000000000001"
 y="0"
-width="10.92"
+width="11.4"
+height="8"
+fill="#f34b7d"
+/>
+
+<rect
+mask="url(#rect-mask)"
+data-testid="lang-progress"
+x="242.04000000000002"
+y="0"
+width="11.34"
+height="8"
+fill="#ff3e00"
+/>
+
+<rect
+mask="url(#rect-mask)"
+data-testid="lang-progress"
+x="243.38000000000002"
+y="0"
+width="11.3"
+height="8"
+fill="#00B4AB"
+/>
+
+<rect
+mask="url(#rect-mask)"
+data-testid="lang-progress"
+x="244.68000000000004"
+y="0"
+width="11.22"
+height="8"
+fill="#6E4C13"
+/>
+
+<rect
+mask="url(#rect-mask)"
+data-testid="lang-progress"
+x="245.90000000000003"
+y="0"
+width="11.08"
+height="8"
+fill="#555555"
+/>
+
+<rect
+mask="url(#rect-mask)"
+data-testid="lang-progress"
+x="246.98000000000005"
+y="0"
+width="10.9"
 height="8"
 fill="#00ADD8"
 />
@@ -278,9 +278,9 @@ fill="#00ADD8"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="247.79999999999993"
+x="247.88000000000005"
 y="0"
-width="10.77"
+width="10.75"
 height="8"
 fill="#F05138"
 />
@@ -288,9 +288,9 @@ fill="#F05138"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="248.56999999999994"
+x="248.63000000000005"
 y="0"
-width="10.72"
+width="10.7"
 height="8"
 fill="#ff5a03"
 />
@@ -298,9 +298,9 @@ fill="#ff5a03"
 <rect
 mask="url(#rect-mask)"
 data-testid="lang-progress"
-x="249.28999999999994"
+x="249.33000000000004"
 y="0"
-width="10.7"
+width="10.68"
 height="8"
 fill="#b07219"
 />
@@ -311,7 +311,7 @@ fill="#b07219"
 <g class="stagger" style="animation-delay: 450ms">
 <circle cx="5" cy="6" r="5" fill="#3572A5" />
 <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-Python 3.9 MB
+Python 4.1 MB
 </text>
 </g>
 </g><g transform="translate(0, 25)">
@@ -365,44 +365,44 @@ Lua 53.1 KB
 </g>
 </g><g transform="translate(0, 200)">
 <g class="stagger" style="animation-delay: 1650ms">
+<circle cx="5" cy="6" r="5" fill="#336790" />
+<text data-testid="lang-name" x="15" y="10" class='lang-name'>
+PLpgSQL 39.0 KB
+</text>
+</g>
+</g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
+<g class="stagger" style="animation-delay: 450ms">
 <circle cx="5" cy="6" r="5" fill="#f34b7d" />
 <text data-testid="lang-name" x="15" y="10" class='lang-name'>
 C++ 35.9 KB
 </text>
 </g>
-</g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-<g class="stagger" style="animation-delay: 450ms">
+</g><g transform="translate(0, 25)">
+<g class="stagger" style="animation-delay: 600ms">
 <circle cx="5" cy="6" r="5" fill="#ff3e00" />
 <text data-testid="lang-name" x="15" y="10" class='lang-name'>
 Svelte 34.2 KB
 </text>
 </g>
-</g><g transform="translate(0, 25)">
-<g class="stagger" style="animation-delay: 600ms">
+</g><g transform="translate(0, 50)">
+<g class="stagger" style="animation-delay: 750ms">
 <circle cx="5" cy="6" r="5" fill="#00B4AB" />
 <text data-testid="lang-name" x="15" y="10" class='lang-name'>
 Dart 33.2 KB
 </text>
 </g>
-</g><g transform="translate(0, 50)">
-<g class="stagger" style="animation-delay: 750ms">
+</g><g transform="translate(0, 75)">
+<g class="stagger" style="animation-delay: 900ms">
 <circle cx="5" cy="6" r="5" fill="#6E4C13" />
 <text data-testid="lang-name" x="15" y="10" class='lang-name'>
 Assembly 31.1 KB
 </text>
 </g>
-</g><g transform="translate(0, 75)">
-<g class="stagger" style="animation-delay: 900ms">
+</g><g transform="translate(0, 100)">
+<g class="stagger" style="animation-delay: 1050ms">
 <circle cx="5" cy="6" r="5" fill="#555555" />
 <text data-testid="lang-name" x="15" y="10" class='lang-name'>
 C 27.5 KB
-</text>
-</g>
-</g><g transform="translate(0, 100)">
-<g class="stagger" style="animation-delay: 1050ms">
-<circle cx="5" cy="6" r="5" fill="#336790" />
-<text data-testid="lang-name" x="15" y="10" class='lang-name'>
-PLpgSQL 24.2 KB
 </text>
 </g>
 </g><g transform="translate(0, 125)">
