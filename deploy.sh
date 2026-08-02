@@ -16,8 +16,11 @@ export PREFIX="localhost:9000"
 export URL_PATH="/top-langs/?username=sichanghe&langs_count=18&layout=compact&stats_format=bytes&exclude_repo=CoreMLProto,reproduce_tensorflow_tensorflow_issue_61654,STATS401,learn_program,rails_tutorial,Notes_Steven,notes,mdbook_katex_template,igem-2022-dku-backup,mdbook_fancy_theme,BigDecimal-Matrix-and-column-vector-calculator-in-Java&hide=Batchfile,CSS,Handlebars,HTML,Jupyter%20Notebook,Less,Tex,VBScript,Markdown,Shell"
 echo "Downloading most owned languages SVG..."
 export SVG_NAME="most_owned_languages.svg"
-curl "$PREFIX$URL_PATH" -o "$SVG_NAME"
-sed -i -e 's/Most Used/Most Owned/g' -e 's/  //g' "$SVG_NAME"
+export DOWNLOAD_NAME="$SVG_NAME.new"
+trap 'rm -f "$DOWNLOAD_NAME"' EXIT
+curl "$PREFIX$URL_PATH" -o "$DOWNLOAD_NAME"
+python3 process_svg.py "$DOWNLOAD_NAME" "$SVG_NAME"
+trap - EXIT
 cat most_owned_languages.svg
 ls -lah most_owned_languages.svg
 

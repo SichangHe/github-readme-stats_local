@@ -8,6 +8,8 @@ on:
     paths:
       - ".github/workflows/metrics.yml"
       - "deploy.sh"
+      - "process_svg.py"
+      - "test_process_svg.py"
 jobs:
   language-metrics:
     runs-on: ubuntu-latest
@@ -20,4 +22,5 @@ jobs:
           version: 10
       - run: |
           export PAT_1=${{ secrets.PAT_1 }}
+          python3 -m unittest
           sh deploy.sh
